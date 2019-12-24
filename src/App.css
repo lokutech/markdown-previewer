@@ -2,6 +2,19 @@
   width:500px;
   height:300px;
   display: flex;
-  /* margin:auto; */
+  margin:auto;
   margin-top:50px;
+}
+
+#preview {
+  width:500px;
+
+  /* display:flex; */
+  margin:auto;
+  /* text-align: center; */
+  /* margin-left:500px */
+}
+
+body{
+  background-color:lightgrey
 }
