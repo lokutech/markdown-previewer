@@ -1,1 +1,1 @@
-# 🛰️markdown-previewer
+# 🛰️ Markdown Previewer
